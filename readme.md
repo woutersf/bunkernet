@@ -18,7 +18,7 @@ Lukt het niet op deze manier? Stuur me een mailtje op woutersf@gmail.com, dan vo
 
 ## Lijst met bunkers
 
-| Name                  | lat Lo                        | url of image  |
+| Name                  | lat Lo                        | url (image)  |
 | ----                  | ------                        | ------------  |
 | Fort van wilsele      |                               |               |
 | Leuvense vaart        | @50.9094809,4.7057351,99m     |               |
