@@ -6,9 +6,9 @@ Welkom op Burgernet.be, de crowd sourced lijst van belgische bunkers.
 
 ## Zelf een bunker toevoegen
 Hoe voeg je hieronder je bunker toe aan deze lijst?
-1. Maak een fork van deze Repo
-2. Voeg je bunker toe (liefst zo volledig mogelijk, naam, lat lon + foto url)
-3. Maak een pull request van je repo naar deze top level repo.
+1. Maak een fork van [deze Repo](https://github.com/woutersf/bunkernet)
+2. In je fork, voeg je bunker toe (liefst zo volledig mogelijk, naam, lat lon + foto url)
+3. Maak een pull request van jouw repo naar de root.
 4. Ik aanvaard alle pull requests om zo een uitgebreide lijst te hebben.
 ````
 Op termijn zou ik graag een pagina + ingave formulier hebben zodat de PR's vanzelf worden aangemaakt.
