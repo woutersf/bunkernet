@@ -1,6 +1,8 @@
 
-# Bunkernet
-Crowd sourced lijst van belgische bunkers.
+# Bunkernet.be
+Welkom op Burgernet.be, de crowd sourced lijst van belgische bunkers.
+
+![Bunker aan de Remytoren in Wijgmaal](https://beeldbank.onroerenderfgoed.be/images/274261/content/medium)
 
 ## Hoe bunker toevoegen
 Hoe voeg je hieronder je bunker toe aan deze lijst?
@@ -19,5 +21,6 @@ Op termijn zou ik graag een pagina + ingave formulier hebben zodat de PR's vanze
 | Fort van wilsele      |                               |               |
 | Leuvense vaart        | @50.9094809,4.7057351,99m     |               |
 | Wilsele langenhofstraat | @50.9171582,4.6961082,122m  |
+
 
 
