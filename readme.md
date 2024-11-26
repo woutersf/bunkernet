@@ -25,6 +25,7 @@ Lukt het niet op deze manier? Stuur me een mailtje op woutersf@gmail.com, dan vo
 | Wilsele langenhofstraat | @50.9171582,4.6961082,122m  |
 | Fort 5 Edegem       | @51.1671575,4.4328858,711m     | https://live.staticflickr.com/2889/9494797811_8f98dc8e00_b.jpg |
 | Fort van Kessel       | @51.1474622,4.6372501,10176m     | https://bekendinnijlen.be/wp-content/uploads/2023/06/Kessel_Fort_26042023-03475.jpg |
+| Fort van Broechem     | @51.177568,4.6147824,666m | https://www.fortengordels.be/sites/default/files/styles/sris_landscape_lg/public/hoofdafbeeldingen/Ranst_fort_Broechem_8674.jpg?itok=mFC_gW4s |
 
 
 ## Github
